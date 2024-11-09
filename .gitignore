@@ -16,3 +16,13 @@ Thumbs.db
 # Ignore GitHub Actions
 
 .github/workflows/render-quarto.yml
+
+# Ignore quarto output
+/.quarto/
+/_site/
+
+# Ignore workplace files
+
+*.Rproj.user
+*.Rproj
+S579.code-workspace
