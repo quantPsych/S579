@@ -1,0 +1,16 @@
+---
+title: "Course Announcements"
+format: html
+---
+
+# Course Announcements
+
+## Announcement 1: Welcome to S579!
+
+Welcome to the S579 course! We're excited to embark on this journey together. Please review the syllabus and complete the first assignment by the end of this week.
+
+## Announcement 2: Midterm Exam Schedule
+
+The midterm exam is scheduled for [Date]. Ensure you are prepared by reviewing the lectures and assignments covered so far.
+
+# Add more announcements as needed
