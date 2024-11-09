@@ -29,7 +29,7 @@ website:
         #   href: exams/final/final.pdf
         # Add more exams as needed
     - text: "Announcements"
-    #   href: announcements/index.html
+      href: announcements/index.html
     # - text: "Online Resources"
     #   href: online_resources/resource1.html
     # - text: "Book Companion"
