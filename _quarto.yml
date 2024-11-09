@@ -5,35 +5,33 @@ website:
   title: "S579 Lecture Notes"
   navbar:
     left:
-    - text: "Home"
-      href: index.qmd
-    - text: "Lectures"
-      dropdown:
-        # - text: "Week 1 Intro"
-        #   href: lectures/week1-intro/lecture1-intro.html
-        # - text: "Week 2 Probability"
-        #   href: lectures/week2-probability/lecture2-probability.html
-        # Add more lectures as needed
-    - text: "Assignments"
-      dropdown:
-        # - text: "Week 1 Assignment"
-        #   href: assignments/week1-assignment/assignment1-week1.html
-        # - text: "Week 2 Assignment"
-        #   href: assignments/week2-assignment/assignment2-week2.html
-        # Add more assignments as needed
-    - text: "Exams"
-      dropdown:
-        # - text: "Midterm"
-        #   href: exams/midterm/midterm.pdf
-        # - text: "Final"
-        #   href: exams/final/final.pdf
-        # Add more exams as needed
-    - text: "Announcements"
-      href: announcements/index.html
+      - text: "Home"
+        href: index.qmd
+      - text: "Lectures"
+        dropdown:
+          - text: "Week 1 Intro"
+            href: lectures/week1-intro/lecture1-intro.html
+          # - text: "Week 2 Probability"
+          #   href: lectures/week2-probability/lecture2-probability.html
+          # Add more lectures as needed
+      - text: "Assignments"
+        dropdown:
+          - text: "Week 1 Assignment"
+            href: assignments/week1-assignment/assignment1-week1.html
+          # - text: "Week 2 Assignment"
+          #   href: assignments/week2-assignment/assignment2-week2.html
+          # Add more assignments as needed
+      - text: "Exams"
+        dropdown:
+          # - text: "Midterm"
+          #   href: exams/midterm/midterm.pdf
+          # - text: "Final"
+          #   href: exams/final/final.pdf
+          # Add more exams as needed
+      - text: "Announcements"
+        href: announcements/index.html
     # - text: "Online Resources"
     #   href: online_resources/resource1.html
-    # - text: "Book Companion"
-    #   href: book_companion/companion1.html
 
 format:
   revealjs:
